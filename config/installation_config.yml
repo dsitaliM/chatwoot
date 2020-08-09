@@ -1,7 +1,7 @@
 - name: LOGO_THUMBNAIL
-  value: '/brand-assets/logo_thumbnail.svg'
+  value: '/brand-assets/logo.jpg'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: '/brand-assets/logo.jpg'
 - name: INSTALLATION_NAME
   value: 'Chatwoot'
 - name: BRAND_URL
@@ -21,4 +21,4 @@
 - name: CREATE_NEW_ACCOUNT_FROM_DASHBOARD
   value: false
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'NTBC Chat'
