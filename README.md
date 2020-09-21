@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/dsitaliM/chatwoot/tree/master" alt="Deploy to Heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/dsitaliM/chatwoot/tree/develop" alt="Deploy to Heroku">
      <img alt="Deploy" src="https://www.herokucdn.com/deploy/button.svg"/>
   </a>
 </p>

@@ -1,17 +1,17 @@
 - name: LOGO_THUMBNAIL
-  value: '/brand-assets/logo_thumbnail.svg'
+  value: '/brand-assets/logo_thumbnail.jpg'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: '/brand-assets/logo.jpg'
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'NTBC Chat'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://ntbc.co.zm'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://ntbc.co.zm'
 - name: TERMS_URL
-  value: 'https://www.chatwoot.com/terms-of-service'
+  value: 'https://ntbc.co.zm/terms-of-service'
 - name: PRIVACY_URL
-  value: 'https://www.chatwoot.com/privacy-policy'
+  value: 'https://ntbc.co.zm/privacy-policy'
 - name: DISPLAY_MANIFEST
   value: true
 - name: MAILER_INBOUND_EMAIL_DOMAIN
@@ -21,4 +21,4 @@
 - name: CREATE_NEW_ACCOUNT_FROM_DASHBOARD
   value: false
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'NTBC Chat'
